@@ -2,7 +2,7 @@
   "name": "01-usmall",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "wh <3092242163@qq.com>",
+  "author": "lxl <1500704524@qq.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
